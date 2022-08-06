@@ -25,8 +25,6 @@ Skills: HTML/CSS/Bootstrap/Java / JavaScript /DBMS/DSA/React JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashkhokhar28)  
 
-![GitHub metrics](https://metrics.lecoq.io/yashkhokhar28)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashkhokhar28)  
 
 ![Profile views](https://gpvc.arturio.dev/yashkhokhar28)  
