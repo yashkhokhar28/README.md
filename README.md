@@ -26,3 +26,5 @@
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkhokhar28)](https://github.com/yashkhokhar28)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhokhar28&layout=compact)](https://github.com/yashkhokhar28)
+
+![Visitor Count](https://profile-counter.glitch.me/yashkhokhar28/count.svg)
