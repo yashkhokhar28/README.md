@@ -1,7 +1,6 @@
 ### Hi there 👋, It's Yash
 #### I'm Always Read To Learn New Things !!
-💡I Have Earned 5 Star On Hacker Rank For Java & DBMS.
-⚡I Have Also Got Basic Certificates For Java & DBMS On Hacker Rank!  
+💡I Have Earned 5 Star And Also Got Basic Certificates For Java & DBMS On Hacker Rank !!
 
 Skills: HTML/CSS/Bootstrap/Java / JavaScript /DBMS/DSA/React JS
 
