@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashkhokhar28" target="blank"><img src="https://img.shields.io/twitter/follow/yashkhokhar28?logo=twitter&style=for-the-badge" alt="yashkhokhar28" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Game**
+- 🔭 I’m currently working on **Android Devlopment**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms , Database Management System - 2 and React JS**
 
