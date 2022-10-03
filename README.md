@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashkhokhar28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkhokhar28) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashkhokhar28) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashkhokhar28) 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yashkhokhar28" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashkhokhar28?trk=profile-badge">Yash Khokhar</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yashkhokhar28" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yashkhokhar28?trk=profile-badge">Yash Khokhar</a></div>
+              
               
 
 # 💻 Tech Stack:
