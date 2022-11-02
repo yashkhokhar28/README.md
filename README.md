@@ -19,4 +19,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashkhokhar28&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashkhokhar28&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yashkhokhar28&icon=6&color=12)](https://visitcount.itsvg.in)
