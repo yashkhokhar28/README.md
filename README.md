@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AngularJS<br>👯 I’m looking to collaborate on JavaScript Projects<br>🌱 I’m currently learning Android Development<br>💬 Ask me about Java
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Python<br>💬 Ask me about Java
 
 
 ## 🌐 Socials:
