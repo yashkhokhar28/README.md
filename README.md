@@ -2,6 +2,10 @@
 🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Python<br>💬 Ask me about Java/DSA
 
 
+## 👀 
+[![](https://visitcount.itsvg.in/api?id=yashkhokhar28&icon=6&color=12)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashkhokhar28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkhokhar28) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashkhokhar28) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashkhokhar28) 
 
