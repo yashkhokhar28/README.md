@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashkhokhar28&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=swift)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=yashkhokhar28&icon=6&color=12)](https://visitcount.itsvg.in) -->
