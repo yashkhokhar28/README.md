@@ -5,7 +5,7 @@
 🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Python<br>💬 Ask me about Java/DSA -->
 
 ## Visitors
-![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=plastic&color=green)
+![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=plastic&color=blue)
 
 <!-- <div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="400" width="500" />
