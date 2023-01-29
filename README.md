@@ -17,3 +17,5 @@
 <div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="200" width="200" />
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
