@@ -7,17 +7,10 @@
 ### [Connect with me 💬](https://bio.link/yashk28) 
 
 
-
-
-![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=flat-square&color=green)
-
-![GitHub followers](https://img.shields.io/github/followers/yashkhokhar28?label=Github&style=social)
-
-
 # Hi! 👋 I'm [Yash Khokhar](https://github.com/yashkhokhar28) 💻
 
 
-![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=plastic&color=green)
 
 ![GitHub followers](https://img.shields.io/github/followers/yashkhokhar28?label=Github&style=social)
 
