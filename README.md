@@ -17,3 +17,7 @@
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
 
 # Hi! 👋 I'm [Yash Khokhar](https://github.com/yashkhokhar28) 💻
+
+<div align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="200" />
+</div>
