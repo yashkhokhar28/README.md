@@ -15,7 +15,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/yashkhokhar28?label=Github&style=social)
 
 <div align="center">
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="200" width="200" />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="200" width="400" />
 </div>
 
 [![Yash's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yashkhokhar28&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yashkhokhar28/github-readme-stats#gh-light-mode-only)
