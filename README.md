@@ -1,5 +1,5 @@
 
-# Hi! 👋 I'm [Yash Khokhar](https://github.com/yashkhokhar28) 💻
+<!-- # Hi! 👋 I'm [Yash Khokhar](https://github.com/yashkhokhar28) 💻 -->
 
 <!-- # 💫 About Me:
 🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Python<br>💬 Ask me about Java/DSA -->
