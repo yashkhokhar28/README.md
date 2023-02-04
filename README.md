@@ -11,9 +11,9 @@
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="400" width="500" />
 </div> -->
 
-[![Yash's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yashkhokhar28&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yashkhokhar28/github-readme-stats#gh-light-mode-only)
+<!-- [![Yash's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yashkhokhar28&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yashkhokhar28/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhokhar28&layout=compact)](https://github.com/yashkhokhar28/github-readme-stats)
-
+ -->
 ### [Connect with me 💬](https://bio.link/yashk28) 
 
