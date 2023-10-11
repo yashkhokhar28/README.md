@@ -16,8 +16,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhokhar28&layout=compact)](https://github.com/yashkhokhar28/github-readme-stats)
  -->
 ### [Connect with me 💬](https://bio.link/yashk28) 
-
-
-
-
-![](https://hit.yhype.me/github/profile?user_id=93334931)
