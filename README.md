@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhokhar28&layout=compact)](https://github.com/yashkhokhar28/github-readme-stats)
  -->
-### [Connect with me 💬](https://bio.link/yashk28) 
+### [Connect with me 💬](https://linktr.ee/yashkhokhar) 
